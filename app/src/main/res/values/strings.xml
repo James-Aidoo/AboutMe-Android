@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lafayette</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, I\'m Lafayette!
+        \nInstead of talking about myself, I\m gonna give you an extract
+        lyrics to Guns and Ships from Hamilton.
+        \n\n"I\'m taking this horse by the reins
+        \nMaking redcoats redder with bloodstains
+        \n\nLafayette!
+        \n\nAnd I\'m never gonna stop until I make \'em drop
+        \nAnd burn \'em up and scatter the remains
+        \nI\'m—Lafayette!
+        \nWatch me engaging \'em, escaping \'em, enraging \'em, ow
+        \n\nLafayette!
+        \nI go to France for more funds
+        \nLafayette!
+        \nI come back with more guns
+        \nAnd ships
+        \nAnd so the balance shifts…"\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
